@@ -1,5 +1,5 @@
 # Desafio-Github-Dio
-### Repositório desenvolvido para o desafio da DIO de criação do prórpio repositório no GitHub, utilizando o conteúdo ensinado no lab *Contribuindo em um Projeto Open Source no GitHub*.
+### Repositório desenvolvido para o desafio da DIO, de criação do próprio repositório no GitHub, utilizando o conteúdo ensinado no lab *Contribuindo em um Projeto Open Source no GitHub*.
 
 ## Objetivo do repositório:
 ### Aprender o básico de versionamento de código, utilizando o Git / Github.
